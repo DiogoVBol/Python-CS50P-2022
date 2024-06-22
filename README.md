@@ -1,4 +1,4 @@
-# Crypto Consult
+# Final Project - Crypto Consult
 #### Video Demo:  <https://www.youtube.com/watch?v=9OEzxx4hgXA>
 #### Description:
 
